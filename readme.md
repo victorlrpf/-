@@ -23,7 +23,7 @@ pip install time
 pip install hashlib
 ````
 ````python
-pip install difflib
+pip install difflibs
 ````
 
 Para saber se todos foram instalados com sucesso e saber se nenhuma está faltando, use o grep ou o findstr:
@@ -34,7 +34,7 @@ pip list | findstr qiskit
 pip list | grep qiskit
 ````
 
-Caso necessário utilize o seguinte comando, para instalar o qiskit Aer que normalmente vai junto do qiskit, caso não tenha ido use:
+Caso necessário utilize o seguinte comando, para instalar o qiskit Aer que normalmente vai junto do qiskit, caso não tenha funcionado use:
 ````python
 pip install qiskit-aer
 ````
