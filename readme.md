@@ -1,4 +1,3 @@
-Quase sem espaço de armazenamento … Caso você fique sem armazenamento, não vai ser possível criar ou editar arquivos, enviar e receber mensagens no Gmail ou fazer backups no Google Fotos.
 ## Este é um repositório que foi fruto de um projeto de INICIAÇÃO CIENTÍFICA
 
 Neste projeto estudavamos a computação quântica e com isso acabamos tendo alguns resultados que em sua marioria foram para artigos científicos, onde é possivel encontrar vendo no github no respositorio de estudos de linguagens quânticas.
@@ -29,7 +28,7 @@ pip install difflib
 
 Para saber se todos foram instalados com sucesso e saber se nenhuma está faltando, use o grep ou o findstr:
 ````python
-pip list | findstr  qiskit
+pip list | findstr qiskit
 ````
 ````python
 pip list | grep qiskit
