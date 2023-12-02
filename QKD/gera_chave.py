@@ -247,4 +247,3 @@ Qual vai ser gerada?
         print("Finalizando o programa. 🙃")
         tm.sleep(5)
         break
-    
